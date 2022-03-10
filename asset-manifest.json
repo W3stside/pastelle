@@ -4,8 +4,8 @@
     "static/js/0.b7b897d4.chunk.js.map": "./static/js/0.b7b897d4.chunk.js.map",
     "static/js/1.3b95cb2b.chunk.js": "./static/js/1.3b95cb2b.chunk.js",
     "static/js/1.3b95cb2b.chunk.js.map": "./static/js/1.3b95cb2b.chunk.js.map",
-    "main.js": "./static/js/main.8a769870.chunk.js",
-    "main.js.map": "./static/js/main.8a769870.chunk.js.map",
+    "main.js": "./static/js/main.4ffc5f75.chunk.js",
+    "main.js.map": "./static/js/main.4ffc5f75.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.bba354fa.js",
     "runtime-main.js.map": "./static/js/runtime-main.bba354fa.js.map",
     "static/css/4.7aaaf388.chunk.css": "./static/css/4.7aaaf388.chunk.css",
@@ -58,12 +58,13 @@
     "static/media/front.bfd29d3d.webm": "./static/media/front.bfd29d3d.webm",
     "static/media/network-gnosis-chain-logo.2c5a4968.svg": "./static/media/network-gnosis-chain-logo.2c5a4968.svg",
     "static/media/network-mainnet-logo.ccc77767.svg": "./static/media/network-mainnet-logo.ccc77767.svg",
-    "static/media/network-rinkeby-logo.16c794f3.svg": "./static/media/network-rinkeby-logo.16c794f3.svg"
+    "static/media/network-rinkeby-logo.16c794f3.svg": "./static/media/network-rinkeby-logo.16c794f3.svg",
+    "static/media/portugal-bg.c9a98f66.jpg": "./static/media/portugal-bg.c9a98f66.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bba354fa.js",
     "static/css/4.7aaaf388.chunk.css",
     "static/js/4.c70ff54f.chunk.js",
-    "static/js/main.8a769870.chunk.js"
+    "static/js/main.4ffc5f75.chunk.js"
   ]
 }
