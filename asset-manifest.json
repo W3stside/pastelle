@@ -4,13 +4,13 @@
     "static/js/0.b2cbda45.chunk.js.map": "./static/js/0.b2cbda45.chunk.js.map",
     "static/js/1.8c33988e.chunk.js": "./static/js/1.8c33988e.chunk.js",
     "static/js/1.8c33988e.chunk.js.map": "./static/js/1.8c33988e.chunk.js.map",
-    "main.js": "./static/js/main.d45c6dd2.chunk.js",
-    "main.js.map": "./static/js/main.d45c6dd2.chunk.js.map",
+    "main.js": "./static/js/main.fc0f53ad.chunk.js",
+    "main.js.map": "./static/js/main.fc0f53ad.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.af4e4d07.js",
     "runtime-main.js.map": "./static/js/runtime-main.af4e4d07.js.map",
     "static/css/4.7aaaf388.chunk.css": "./static/css/4.7aaaf388.chunk.css",
-    "static/js/4.b4f3c070.chunk.js": "./static/js/4.b4f3c070.chunk.js",
-    "static/js/4.b4f3c070.chunk.js.map": "./static/js/4.b4f3c070.chunk.js.map",
+    "static/js/4.63f415e1.chunk.js": "./static/js/4.63f415e1.chunk.js",
+    "static/js/4.63f415e1.chunk.js.map": "./static/js/4.63f415e1.chunk.js.map",
     "static/js/5.73654502.chunk.js": "./static/js/5.73654502.chunk.js",
     "static/js/5.73654502.chunk.js.map": "./static/js/5.73654502.chunk.js.map",
     "static/js/6.1bda78a2.chunk.js": "./static/js/6.1bda78a2.chunk.js",
@@ -24,7 +24,7 @@
     "index.html": "./index.html",
     "static/css/4.7aaaf388.chunk.css.map": "./static/css/4.7aaaf388.chunk.css.map",
     "static/js/0.b2cbda45.chunk.js.LICENSE.txt": "./static/js/0.b2cbda45.chunk.js.LICENSE.txt",
-    "static/js/4.b4f3c070.chunk.js.LICENSE.txt": "./static/js/4.b4f3c070.chunk.js.LICENSE.txt",
+    "static/js/4.63f415e1.chunk.js.LICENSE.txt": "./static/js/4.63f415e1.chunk.js.LICENSE.txt",
     "static/js/5.73654502.chunk.js.LICENSE.txt": "./static/js/5.73654502.chunk.js.LICENSE.txt",
     "static/js/6.1bda78a2.chunk.js.LICENSE.txt": "./static/js/6.1bda78a2.chunk.js.LICENSE.txt",
     "static/js/8.940b4dc8.chunk.js.LICENSE.txt": "./static/js/8.940b4dc8.chunk.js.LICENSE.txt",
@@ -41,18 +41,14 @@
     "static/media/Roboto-Regular.a8d6ac03.ttf": "./static/media/Roboto-Regular.a8d6ac03.ttf",
     "static/media/Roboto-Thin.1711b41f.ttf": "./static/media/Roboto-Thin.1711b41f.ttf",
     "static/media/Roboto-ThinItalic.026cbce1.ttf": "./static/media/Roboto-ThinItalic.026cbce1.ttf",
-    "static/media/artists-mathieu.0fee768c.jpeg": "./static/media/artists-mathieu.0fee768c.jpeg",
-    "static/media/david.19bbeef1.jpeg": "./static/media/david.19bbeef1.jpeg",
-    "static/media/felix_david_train_cropped.ec359430.jpg": "./static/media/felix_david_train_cropped.ec359430.jpg",
     "static/media/network-gnosis-chain-logo.2c5a4968.svg": "./static/media/network-gnosis-chain-logo.2c5a4968.svg",
     "static/media/network-mainnet-logo.ccc77767.svg": "./static/media/network-mainnet-logo.ccc77767.svg",
-    "static/media/network-rinkeby-logo.16c794f3.svg": "./static/media/network-rinkeby-logo.16c794f3.svg",
-    "static/media/portugal-bg.c9a98f66.jpg": "./static/media/portugal-bg.c9a98f66.jpg"
+    "static/media/network-rinkeby-logo.16c794f3.svg": "./static/media/network-rinkeby-logo.16c794f3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.af4e4d07.js",
     "static/css/4.7aaaf388.chunk.css",
-    "static/js/4.b4f3c070.chunk.js",
-    "static/js/main.d45c6dd2.chunk.js"
+    "static/js/4.63f415e1.chunk.js",
+    "static/js/main.fc0f53ad.chunk.js"
   ]
 }
