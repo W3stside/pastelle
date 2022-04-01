@@ -6,18 +6,18 @@
     "static/js/1.b3866780.chunk.js.map": "./static/js/1.b3866780.chunk.js.map",
     "ABOUTUS.js": "./static/js/ABOUTUS.e65febfc.chunk.js",
     "ABOUTUS.js.map": "./static/js/ABOUTUS.e65febfc.chunk.js.map",
-    "HEADER.js": "./static/js/HEADER.06cc0b41.chunk.js",
-    "HEADER.js.map": "./static/js/HEADER.06cc0b41.chunk.js.map",
+    "HEADER.js": "./static/js/HEADER.025f9c89.chunk.js",
+    "HEADER.js.map": "./static/js/HEADER.025f9c89.chunk.js.map",
     "NAVIGATION.js": "./static/js/NAVIGATION.922af039.chunk.js",
     "NAVIGATION.js.map": "./static/js/NAVIGATION.922af039.chunk.js.map",
     "NOTFOUND.js": "./static/js/NOTFOUND.0c1faa7c.chunk.js",
     "NOTFOUND.js.map": "./static/js/NOTFOUND.0c1faa7c.chunk.js.map",
     "POPUPS.js": "./static/js/POPUPS.92966bdc.chunk.js",
     "POPUPS.js.map": "./static/js/POPUPS.92966bdc.chunk.js.map",
-    "main.js": "./static/js/main.0bf9fba3.chunk.js",
-    "main.js.map": "./static/js/main.0bf9fba3.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.307d939f.js",
-    "runtime-main.js.map": "./static/js/runtime-main.307d939f.js.map",
+    "main.js": "./static/js/main.67e3ff1f.chunk.js",
+    "main.js.map": "./static/js/main.67e3ff1f.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.4c1a89d6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.4c1a89d6.js.map",
     "static/js/9.9fce485c.chunk.js": "./static/js/9.9fce485c.chunk.js",
     "static/js/9.9fce485c.chunk.js.map": "./static/js/9.9fce485c.chunk.js.map",
     "static/js/10.c78adcf2.chunk.js": "./static/js/10.c78adcf2.chunk.js",
@@ -45,6 +45,7 @@
     "static/js/15.b0c454fc.chunk.js.LICENSE.txt": "./static/js/15.b0c454fc.chunk.js.LICENSE.txt",
     "static/js/9.9fce485c.chunk.js.LICENSE.txt": "./static/js/9.9fce485c.chunk.js.LICENSE.txt",
     "static/media/inter.css": "./static/media/Inter.var.c2fe3cb2.woff2",
+    "static/media/PSTL-sharp.05dac951.svg": "./static/media/PSTL-sharp.05dac951.svg",
     "static/media/Roboto-Black.2a428584.ttf": "./static/media/Roboto-Black.2a428584.ttf",
     "static/media/Roboto-BlackItalic.77e50ab1.ttf": "./static/media/Roboto-BlackItalic.77e50ab1.ttf",
     "static/media/Roboto-Bold.75371f53.ttf": "./static/media/Roboto-Bold.75371f53.ttf",
@@ -59,12 +60,14 @@
     "static/media/Roboto-ThinItalic.026cbce1.ttf": "./static/media/Roboto-ThinItalic.026cbce1.ttf",
     "static/media/network-gnosis-chain-logo.2c5a4968.svg": "./static/media/network-gnosis-chain-logo.2c5a4968.svg",
     "static/media/network-mainnet-logo.ccc77767.svg": "./static/media/network-mainnet-logo.ccc77767.svg",
-    "static/media/network-rinkeby-logo.16c794f3.svg": "./static/media/network-rinkeby-logo.16c794f3.svg"
+    "static/media/network-rinkeby-logo.16c794f3.svg": "./static/media/network-rinkeby-logo.16c794f3.svg",
+    "static/media/pastelle-cursive-logo.0317779d.svg": "./static/media/pastelle-cursive-logo.0317779d.svg",
+    "static/media/pastelle-ivory-outlined.06d3dadf.svg": "./static/media/pastelle-ivory-outlined.06d3dadf.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.307d939f.js",
+    "static/js/runtime-main.4c1a89d6.js",
     "static/css/11.7aaaf388.chunk.css",
     "static/js/11.5ee35feb.chunk.js",
-    "static/js/main.0bf9fba3.chunk.js"
+    "static/js/main.67e3ff1f.chunk.js"
   ]
 }
