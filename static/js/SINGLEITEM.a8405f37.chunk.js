@@ -1,0 +1,2 @@
+(this.webpackJsonppastelle=this.webpackJsonppastelle||[]).push([[8],{934:function(e,t,a){"use strict";a.r(t),a.d(t,"default",(function(){return u}));var c=a(7),n=a(129),s=a(94),i=a(147),r=a(2);function u(){var e=Object(s.a)({randomiseData:!0}).currentItem;return Object(r.jsx)(n.a,{id:"CATALOG-ARTICLE",children:Object(r.jsx)(i.a,Object(c.a)(Object(c.a)({},e),{},{isActive:!0,itemIndex:0}))})}}}]);
+//# sourceMappingURL=SINGLEITEM.a8405f37.chunk.js.map
