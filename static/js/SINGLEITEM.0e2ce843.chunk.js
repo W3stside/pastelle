@@ -1,0 +1,2 @@
+(this.webpackJsonppastelle=this.webpackJsonppastelle||[]).push([[8],{934:function(e,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return u}));var s=c(7),a=c(129),n=c(83),r=c(147),i=c(2);function u(){var e=Object(n.a)().currentItem;return Object(i.jsx)(a.a,{id:"CATALOG-ARTICLE",children:Object(i.jsx)(r.a,Object(s.a)(Object(s.a)({},e),{},{isActive:!0,itemIndex:0,showBreadCrumbs:!0}))})}}}]);
+//# sourceMappingURL=SINGLEITEM.0e2ce843.chunk.js.map
