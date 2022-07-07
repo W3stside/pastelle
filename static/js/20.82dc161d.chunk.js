@@ -1,2 +1,0 @@
-(this.webpackJsonppastelle=this.webpackJsonppastelle||[]).push([[20],{421:function(n,t){},422:function(n,t){},628:function(n,t){},670:function(n,t){},672:function(n,t){},694:function(n,t){},711:function(n,t){},714:function(n,t){},716:function(n,t){}}]);
-//# sourceMappingURL=20.82dc161d.chunk.js.map
