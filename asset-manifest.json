@@ -28,8 +28,8 @@
     "POPUPS.js.map": "./static/js/POPUPS.5a7a1341.chunk.js.map",
     "SINGLEITEM.js": "./static/js/SINGLEITEM.12987168.chunk.js",
     "SINGLEITEM.js.map": "./static/js/SINGLEITEM.12987168.chunk.js.map",
-    "main.js": "./static/js/main.765cdc83.chunk.js",
-    "main.js.map": "./static/js/main.765cdc83.chunk.js.map",
+    "main.js": "./static/js/main.84e8c4c2.chunk.js",
+    "main.js.map": "./static/js/main.84e8c4c2.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.34b06b2c.js",
     "runtime-main.js.map": "./static/js/runtime-main.34b06b2c.js.map",
     "static/js/16.2138c9b0.chunk.js": "./static/js/16.2138c9b0.chunk.js",
@@ -80,6 +80,6 @@
     "static/js/runtime-main.34b06b2c.js",
     "static/css/17.7aaaf388.chunk.css",
     "static/js/17.84f31375.chunk.js",
-    "static/js/main.765cdc83.chunk.js"
+    "static/js/main.84e8c4c2.chunk.js"
   ]
 }
